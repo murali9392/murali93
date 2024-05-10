@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Murali Naik</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="200" src="![image](https://github.com/murali9392/murali93/assets/152364749/bc28ad10-3c82-4112-b856-ba78ad34c450)
+<img align="right" alt="coding" width="200" src="![image](https://github.com/murali9392/murali93/assets/152364749/75a602d0-d6f4-439d-86ad-f5dbc6efea1f)
+
 ">
 
 
