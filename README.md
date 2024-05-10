@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Murali Naik</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/murali9392/murali93/assets/152364749/5b56cdb6-09bb-4684-870d-8b174f33bbaf)
+<img align="right" alt="coding" width="200" src="![image](https://github.com/murali9392/murali93/assets/152364749/5b56cdb6-09bb-4684-870d-8b174f33bbaf)
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murali9392&label=Profile%20views&color=0e75b6&style=flat" alt="murali9392" /> </p>
