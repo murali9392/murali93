@@ -1,5 +1,6 @@
-# Murali93
-My GitHUb Profile.
+# Murali93.
+
+Hello World , This is my profile.
 
 <h1 align="center">Hi 👋, I'm Murali Naik</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
